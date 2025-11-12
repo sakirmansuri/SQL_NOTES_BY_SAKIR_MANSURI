@@ -69,6 +69,6 @@ Compatible with PostgreSQL / SQLite / MS SQL
 📬 Connect with Me
 Sakir Mansuri — Data Science & AI Trainer
 📧 sakir.mansuri2103@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/sakirmansuri/
 
 “Write SQL like you speak data — clear, structured, and logical.”
