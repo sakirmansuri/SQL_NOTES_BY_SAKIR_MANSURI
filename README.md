@@ -16,35 +16,6 @@ Master SQL from basics to real-world applications — through clear notes, solve
 
 ---
 
-## 🧠 Repository Structure
-SQL_Masterclass/
-│
-├── 📘 01_Basics/
-│ ├── sql_introduction.md
-│ ├── create_alter_drop.sql
-│
-├── 📘 02_DML/
-│ ├── insert_update_delete.sql
-│ ├── select_where_orderby.sql
-│
-├── 📘 03_Advanced/
-│ ├── joins_examples.sql
-│ ├── subqueries_cte.sql
-│ ├── views_indexes.sql
-│
-├── 📘 04_Practice/
-│ ├── ddl_dml_practice.sql
-│ ├── joins_subqueries_case_study.sql
-│
-└── 📘 05_Assignments/
-├── assignment_set1.sql
-├── assignment_set2.sql
-
-pgsql
-Copy code
-
----
-
 ## 🧩 Topics Covered
 | Section | Topics | Level |
 |----------|---------|--------|
@@ -73,6 +44,7 @@ CREATE TABLE students (
     course VARCHAR(30),
     marks INT CHECK (marks >= 0 AND marks <= 100)
 );
+```
 ✅ Explanation:
 
 PRIMARY KEY → ensures each student has a unique ID
